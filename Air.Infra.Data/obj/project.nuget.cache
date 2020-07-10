@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "O3NR3awQxICq3+mjNFWVwzIVxjlm+VX/CDr0qYVH3ElT3VzisGa4T/C6sML+MTaAI+GkvURd0L2N6azGuONtTQ==",
+  "dgSpecHash": "e9HZnbB5j7GGuGifVd2dA0mjWoqqTpOywIBctfa2f8rNUqE+8ibuyqgw0tfMuvP/A7QtAXSf4lXgEdEiJtucWw==",
   "success": true,
   "projectFilePath": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\junio\\.nuget\\packages\\fluentvalidation\\9.0.0\\fluentvalidation.9.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.0.0\\fluentvalidation.aspnetcore.9.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.0.0\\fluentvalidation.dependencyinjectionextensions.9.0.0.nupkg.sha512",
     "C:\\Users\\junio\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\junio\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\junio\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

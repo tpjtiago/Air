@@ -58,6 +58,38 @@
           }
         }
       },
+      "FluentValidation/9.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "9.0.0.0"
+          }
+        }
+      },
+      "FluentValidation.AspNetCore/9.0.0": {
+        "dependencies": {
+          "FluentValidation": "9.0.0",
+          "FluentValidation.DependencyInjectionExtensions": "9.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/FluentValidation.AspNetCore.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "9.0.0.0"
+          }
+        }
+      },
+      "FluentValidation.DependencyInjectionExtensions/9.0.0": {
+        "dependencies": {
+          "FluentValidation": "9.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.5"
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "9.0.0.0"
+          }
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "runtime": {
           "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
@@ -892,12 +924,6 @@
       "System.Security.Permissions/4.5.0": {
         "dependencies": {
           "System.Security.AccessControl": "4.5.0"
-        },
-        "runtime": {
-          "lib/netstandard2.0/System.Security.Permissions.dll": {
-            "assemblyVersion": "4.0.1.0",
-            "fileVersion": "4.6.26515.6"
-          }
         }
       },
       "System.Security.Principal.Windows/4.5.0": {
@@ -1043,6 +1069,9 @@
         }
       },
       "Air.Domain/1.0.0": {
+        "dependencies": {
+          "FluentValidation.AspNetCore": "9.0.0"
+        },
         "runtime": {
           "Air.Domain.dll": {}
         }
@@ -1077,6 +1106,27 @@
       "sha512": "sha512-528nEpAwniNn8Z6Ae9qTiM/kN4f0BxmWE9mDMEkqKKGxbuElmv6Kj9DVvTXECJkIt6ARerb9+vYbOifNpcwvXQ==",
       "path": "automapper.extensions.microsoft.dependencyinjection/3.2.0",
       "hashPath": "automapper.extensions.microsoft.dependencyinjection.3.2.0.nupkg.sha512"
+    },
+    "FluentValidation/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2SPrOW660J7v56AC2Wd4MqdiXOoEUPf72J2yMx2F3y6Ylw5pvuYrbjI435wimdTCleGgssgsdTwUJHc72dkTMw==",
+      "path": "fluentvalidation/9.0.0",
+      "hashPath": "fluentvalidation.9.0.0.nupkg.sha512"
+    },
+    "FluentValidation.AspNetCore/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mOvSEFLQzGksTLbfDjIr0mPVqeMoxPexpO//fXLYvyIWzhy/emlpHs7A5ZtHNiO40ntQdibWx8fCDHTVNkAyaQ==",
+      "path": "fluentvalidation.aspnetcore/9.0.0",
+      "hashPath": "fluentvalidation.aspnetcore.9.0.0.nupkg.sha512"
+    },
+    "FluentValidation.DependencyInjectionExtensions/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Dz+9Y5c2KVOCtssClRxNCceGWp+0uSGcTQEgWFGoqRyO1wlU89KwIsmaFtMKvuwXIH5beiMTidHxeXhWfPK7gQ==",
+      "path": "fluentvalidation.dependencyinjectionextensions/9.0.0",
+      "hashPath": "fluentvalidation.dependencyinjectionextensions.9.0.0.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
       "type": "package",

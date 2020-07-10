@@ -88,3 +88,6 @@ C:\Users\junio\Documents\Projetos\Air\WebApplication2\obj\Debug\netcoreapp3.1\st
 C:\Users\junio\Documents\Projetos\Air\WebApplication2\obj\Debug\netcoreapp3.1\WebAir.API.dll
 C:\Users\junio\Documents\Projetos\Air\WebApplication2\obj\Debug\netcoreapp3.1\WebAir.API.pdb
 C:\Users\junio\Documents\Projetos\Air\WebApplication2\obj\Debug\netcoreapp3.1\WebAir.API.genruntimeconfig.cache
+C:\Users\junio\Documents\Projetos\Air\WebApplication2\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\junio\Documents\Projetos\Air\WebApplication2\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\junio\Documents\Projetos\Air\WebApplication2\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll

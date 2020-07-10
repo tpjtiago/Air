@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "wHergijshd6eKwe+zRLkYT8oymc8c9BDfNewcge9fpeWBn7wLX207Nwm746w3R/+mPLgGz2ydWIziI9QGIhwig==",
+  "dgSpecHash": "ctyiJh0+yStAtsez19zaTyZt2TwFPtGgfVLWLCxm8ee9ulO7q/INTKQsMHa8UTqGuFboYKwO9xW4nLb3n4gVUw==",
   "success": true,
   "projectFilePath": "C:\\Users\\junio\\Documents\\Projetos\\Air\\WebApplication2\\WebAir.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\junio\\.nuget\\packages\\automapper\\6.1.1\\automapper.6.1.1.nupkg.sha512",
     "C:\\Users\\junio\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\3.2.0\\automapper.extensions.microsoft.dependencyinjection.3.2.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\fluentvalidation\\9.0.0\\fluentvalidation.9.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.0.0\\fluentvalidation.aspnetcore.9.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.0.0\\fluentvalidation.dependencyinjectionextensions.9.0.0.nupkg.sha512",
     "C:\\Users\\junio\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\junio\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\junio\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

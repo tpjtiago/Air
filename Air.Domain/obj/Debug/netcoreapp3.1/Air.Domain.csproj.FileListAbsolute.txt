@@ -13,6 +13,6 @@ C:\Users\junio\Documents\Projetos\Air\Air.Domain\bin\Debug\netcoreapp3.1\Air.Dom
 C:\Users\junio\Documents\Projetos\Air\Air.Domain\obj\Debug\netcoreapp3.1\Air.Domain.csprojAssemblyReference.cache
 C:\Users\junio\Documents\Projetos\Air\Air.Domain\obj\Debug\netcoreapp3.1\Air.Domain.AssemblyInfoInputs.cache
 C:\Users\junio\Documents\Projetos\Air\Air.Domain\obj\Debug\netcoreapp3.1\Air.Domain.AssemblyInfo.cs
-C:\Users\junio\Documents\Projetos\Air\Air.Domain\obj\Debug\netcoreapp3.1\Air.Domain.csproj.CoreCompileInputs.cache
 C:\Users\junio\Documents\Projetos\Air\Air.Domain\obj\Debug\netcoreapp3.1\Air.Domain.dll
 C:\Users\junio\Documents\Projetos\Air\Air.Domain\obj\Debug\netcoreapp3.1\Air.Domain.pdb
+C:\Users\junio\Documents\Projetos\Air\Air.Domain\obj\Debug\netcoreapp3.1\Air.Domain.csproj.CoreCompileInputs.cache

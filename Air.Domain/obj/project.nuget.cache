@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "tlOAfflnVExRKWroOXnn/aDf+sXDcdAeILvjk2Pk56hseKc6pmdj0n8S5YEITwTX4HtThN6hM7HAmExjdebXNg==",
+  "dgSpecHash": "RFD+LHQ1wxTcHyYVrfCVLJKkI26sPd2rR3hrdycw+TMWdnc+stIrxKGp/eNPpP9Tx2JXhzQc/k109RVq1c0Mcw==",
   "success": true,
   "projectFilePath": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Domain\\Air.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\junio\\.nuget\\packages\\fluentvalidation\\9.0.0\\fluentvalidation.9.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.0.0\\fluentvalidation.aspnetcore.9.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.0.0\\fluentvalidation.dependencyinjectionextensions.9.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
