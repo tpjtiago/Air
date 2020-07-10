@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Domain\\Air.Domain.csproj": {}
+    "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Domain\\Air.Domain.csproj": {
+    "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Domain\\Air.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj",
         "projectName": "Air.Domain",
-        "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Domain\\Air.Domain.csproj",
+        "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj",
         "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Domain\\obj\\",
+        "outputPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",

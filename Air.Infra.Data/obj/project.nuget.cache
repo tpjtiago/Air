@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e9HZnbB5j7GGuGifVd2dA0mjWoqqTpOywIBctfa2f8rNUqE+8ibuyqgw0tfMuvP/A7QtAXSf4lXgEdEiJtucWw==",
+  "dgSpecHash": "hcCRZp2RY66+H1vK6J/+fnTV75CT7EkuDuEV53Z4UFcw1ADcN9uf36k0BOD+841h8Za573FyYbgmaZgDMsENiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\junio\\.nuget\\packages\\fluentvalidation\\9.0.0\\fluentvalidation.9.0.0.nupkg.sha512",
     "C:\\Users\\junio\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.0.0\\fluentvalidation.aspnetcore.9.0.0.nupkg.sha512",

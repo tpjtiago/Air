@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EuKIe6UGjpPg/vTKTLJ0PPAfwvj2XEUThVThTiy5OnOJeF8KybgitevdN9euwuVipgfWmbZhz0IwN0g5S2Gurw==",
+  "dgSpecHash": "++U9te4QpmTmyWs8egy94MJgdW7m6T+TX2iWTxYC/MvzNkDgvOi9sTElLs3MPlMcTG8hamoxABtPoVM57kpreA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Application\\Air.Application.csproj",
+  "projectFilePath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Application\\Air.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\junio\\.nuget\\packages\\automapper\\6.1.1\\automapper.6.1.1.nupkg.sha512",
     "C:\\Users\\junio\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\3.2.0\\automapper.extensions.microsoft.dependencyinjection.3.2.0.nupkg.sha512",

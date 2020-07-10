@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj": {}
+    "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Application\\Air.Application.csproj": {
+    "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Application\\Air.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Application\\Air.Application.csproj",
+        "projectUniqueName": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Application\\Air.Application.csproj",
         "projectName": "Air.Application",
-        "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Application\\Air.Application.csproj",
+        "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Application\\Air.Application.csproj",
         "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Application\\obj\\",
+        "outputPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Domain\\Air.Domain.csproj": {
-                "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Domain\\Air.Domain.csproj"
+              "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj": {
+                "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Domain\\Air.Domain.csproj": {
+    "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Domain\\Air.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj",
         "projectName": "Air.Domain",
-        "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Domain\\Air.Domain.csproj",
+        "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj",
         "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Domain\\obj\\",
+        "outputPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -130,14 +130,14 @@
         }
       }
     },
-    "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj": {
+    "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj",
         "projectName": "Air.Infra.Data",
-        "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -153,8 +153,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Domain\\Air.Domain.csproj": {
-                "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Domain\\Air.Domain.csproj"
+              "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj": {
+                "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj"
               }
             }
           }
@@ -207,14 +207,14 @@
         }
       }
     },
-    "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj": {
+    "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj",
+        "projectUniqueName": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj",
         "projectName": "Air.Infra.Ioc",
-        "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj",
+        "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj",
         "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Infra.Ioc\\obj\\",
+        "outputPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Ioc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -230,14 +230,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Application\\Air.Application.csproj": {
-                "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Application\\Air.Application.csproj"
+              "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Application\\Air.Application.csproj": {
+                "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Application\\Air.Application.csproj"
               },
-              "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Domain\\Air.Domain.csproj": {
-                "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Domain\\Air.Domain.csproj"
+              "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj": {
+                "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj"
               },
-              "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj"
+              "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj"
               }
             }
           }

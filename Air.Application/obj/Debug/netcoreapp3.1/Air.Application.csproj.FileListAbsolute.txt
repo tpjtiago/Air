@@ -22,3 +22,15 @@ C:\Users\junio\Documents\Projetos\Air\Air.Application\obj\Debug\netcoreapp3.1\Ai
 C:\Users\junio\Documents\Projetos\Air\Air.Application\obj\Debug\netcoreapp3.1\Air.Application.csproj.CopyComplete
 C:\Users\junio\Documents\Projetos\Air\Air.Application\obj\Debug\netcoreapp3.1\Air.Application.dll
 C:\Users\junio\Documents\Projetos\Air\Air.Application\obj\Debug\netcoreapp3.1\Air.Application.pdb
+C:\Users\junio\Desktop\teste\Air\Air.Application\bin\Debug\netcoreapp3.1\Air.Application.deps.json
+C:\Users\junio\Desktop\teste\Air\Air.Application\bin\Debug\netcoreapp3.1\Air.Application.dll
+C:\Users\junio\Desktop\teste\Air\Air.Application\bin\Debug\netcoreapp3.1\Air.Application.pdb
+C:\Users\junio\Desktop\teste\Air\Air.Application\bin\Debug\netcoreapp3.1\Air.Domain.dll
+C:\Users\junio\Desktop\teste\Air\Air.Application\bin\Debug\netcoreapp3.1\Air.Domain.pdb
+C:\Users\junio\Desktop\teste\Air\Air.Application\obj\Debug\netcoreapp3.1\Air.Application.csprojAssemblyReference.cache
+C:\Users\junio\Desktop\teste\Air\Air.Application\obj\Debug\netcoreapp3.1\Air.Application.AssemblyInfoInputs.cache
+C:\Users\junio\Desktop\teste\Air\Air.Application\obj\Debug\netcoreapp3.1\Air.Application.AssemblyInfo.cs
+C:\Users\junio\Desktop\teste\Air\Air.Application\obj\Debug\netcoreapp3.1\Air.Application.csproj.CoreCompileInputs.cache
+C:\Users\junio\Desktop\teste\Air\Air.Application\obj\Debug\netcoreapp3.1\Air.Application.csproj.CopyComplete
+C:\Users\junio\Desktop\teste\Air\Air.Application\obj\Debug\netcoreapp3.1\Air.Application.dll
+C:\Users\junio\Desktop\teste\Air\Air.Application\obj\Debug\netcoreapp3.1\Air.Application.pdb

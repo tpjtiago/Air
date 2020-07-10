@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5hVhUFUpSwjsND4QWuoTC45OUsEGhXNQmPMuCvfja2eOz+R3RyUvvgQQ5nvm+Q5io3+Y24ui8SWQ9nHvihxnlQ==",
+  "dgSpecHash": "ypP1D9tM9s8ZUWVIkYEhpcU0r4lraNTyLVM1s8ViHTP+dfvODf+pQiTkc3qecJoRk5SkNAFfL2RgkTDHepRmBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\junio\\Documents\\Projetos\\Air\\WebApplication2\\WebAir.API.csproj",
+  "projectFilePath": "C:\\Users\\junio\\Desktop\\teste\\Air\\WebApplication2\\WebAir.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\junio\\.nuget\\packages\\automapper\\6.1.1\\automapper.6.1.1.nupkg.sha512",
     "C:\\Users\\junio\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\3.2.0\\automapper.extensions.microsoft.dependencyinjection.3.2.0.nupkg.sha512",
