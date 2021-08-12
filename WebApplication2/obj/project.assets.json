@@ -9195,11 +9195,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\junio\\Desktop\\teste\\Air\\WebApplication2\\WebAir.API.csproj",
+      "projectUniqueName": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\WebApplication2\\WebAir.API.csproj",
       "projectName": "WebAir.API",
-      "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\WebApplication2\\WebAir.API.csproj",
+      "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\WebApplication2\\WebAir.API.csproj",
       "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\WebApplication2\\obj\\",
+      "outputPath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9215,11 +9215,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Application\\Air.Application.csproj": {
-              "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Application\\Air.Application.csproj"
+            "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Application\\Air.Application.csproj": {
+              "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Application\\Air.Application.csproj"
             },
-            "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj": {
-              "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj"
+            "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj": {
+              "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj"
             }
           }
         }
@@ -9278,7 +9278,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

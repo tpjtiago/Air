@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\junio\\Desktop\\teste\\Air\\WebApplication2\\WebAir.API.csproj": {}
+    "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\WebApplication2\\WebAir.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Application\\Air.Application.csproj": {
+    "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Application\\Air.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Application\\Air.Application.csproj",
+        "projectUniqueName": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Application\\Air.Application.csproj",
         "projectName": "Air.Application",
-        "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Application\\Air.Application.csproj",
+        "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Application\\Air.Application.csproj",
         "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Application\\obj\\",
+        "outputPath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj": {
-                "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj"
+              "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Domain\\Air.Domain.csproj": {
+                "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Domain\\Air.Domain.csproj"
               }
             }
           }
@@ -65,18 +65,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj": {
+    "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Domain\\Air.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Domain\\Air.Domain.csproj",
         "projectName": "Air.Domain",
-        "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj",
+        "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Domain\\Air.Domain.csproj",
         "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\obj\\",
+        "outputPath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -126,18 +126,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj": {
+    "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj",
         "projectName": "Air.Infra.Data",
-        "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -153,8 +153,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj": {
-                "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj"
+              "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Domain\\Air.Domain.csproj": {
+                "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Domain\\Air.Domain.csproj"
               }
             }
           }
@@ -203,18 +203,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj": {
+    "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj",
+        "projectUniqueName": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj",
         "projectName": "Air.Infra.Ioc",
-        "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj",
+        "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj",
         "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Ioc\\obj\\",
+        "outputPath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Infra.Ioc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -230,14 +230,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Application\\Air.Application.csproj": {
-                "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Application\\Air.Application.csproj"
+              "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Application\\Air.Application.csproj": {
+                "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Application\\Air.Application.csproj"
               },
-              "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj": {
-                "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Domain\\Air.Domain.csproj"
+              "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Domain\\Air.Domain.csproj": {
+                "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Domain\\Air.Domain.csproj"
               },
-              "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj"
+              "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Infra.Data\\Air.Infra.Data.csproj"
               }
             }
           }
@@ -274,18 +274,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\junio\\Desktop\\teste\\Air\\WebApplication2\\WebAir.API.csproj": {
+    "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\WebApplication2\\WebAir.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junio\\Desktop\\teste\\Air\\WebApplication2\\WebAir.API.csproj",
+        "projectUniqueName": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\WebApplication2\\WebAir.API.csproj",
         "projectName": "WebAir.API",
-        "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\WebApplication2\\WebAir.API.csproj",
+        "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\WebApplication2\\WebAir.API.csproj",
         "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\WebApplication2\\obj\\",
+        "outputPath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -301,11 +301,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Application\\Air.Application.csproj": {
-                "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Application\\Air.Application.csproj"
+              "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Application\\Air.Application.csproj": {
+                "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Application\\Air.Application.csproj"
               },
-              "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj": {
-                "projectPath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj"
+              "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj": {
+                "projectPath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj"
               }
             }
           }
@@ -364,7 +364,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ljn5pMCwvxFh9wfbuwNQsmZckAvWOMgzssuZPLi76q8F409BPT6Qowdkc7++wxfftfs0sPXEqRNJbF8ZFqy6hg==",
+  "dgSpecHash": "NHVPquiMARZjPFfM3nJdiObSSVqA6nyuXjDyrwMyH3ZSQULdBIsH7UNXXk2n0365TWszkzSNoiAuL9ZVcEcECw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\junio\\Desktop\\teste\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj",
+  "projectFilePath": "C:\\Users\\junio\\Documents\\Projetos\\AirLiquide-Crud\\Air\\Air.Infra.Ioc\\Air.Infra.Ioc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\junio\\.nuget\\packages\\automapper\\6.1.1\\automapper.6.1.1.nupkg.sha512",
     "C:\\Users\\junio\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\3.2.0\\automapper.extensions.microsoft.dependencyinjection.3.2.0.nupkg.sha512",
